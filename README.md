@@ -1,0 +1,2 @@
+# moz-bug-sticky
+ 
